@@ -51,7 +51,7 @@ This document compares a completed reference MPC app (from `mpc-live-interface.z
 
 ## 📂 Component Structure (Partial)
 
-```
+\`\`\`
 components/
 ├─ pad-grid.tsx
 ├─ control-buttons.tsx
@@ -67,7 +67,7 @@ components/
 ├─ java-converter-view.tsx
 ├─ mpc-live-interface.tsx
 ├─ bottom-buttons.tsx
-```
+\`\`\`
 
 ---
 
